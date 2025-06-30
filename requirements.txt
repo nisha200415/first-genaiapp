@@ -14,6 +14,7 @@ colorama==0.4.6
 dataclasses-json==0.6.7
 dotenv==0.9.9
 frozenlist==1.7.0
+faiss-cpu
 gitdb==4.0.12
 GitPython==3.1.44
 greenlet==3.2.3
@@ -39,6 +40,7 @@ mypy_extensions==1.1.0
 narwhals==1.44.0
 numpy==2.3.1
 orjson==3.10.18
+openai
 packaging==24.2
 pandas==2.3.0
 pillow==11.2.1
